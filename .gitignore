@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+packages/
+
+# Build outputs
+dist/
+build/
+bin/
+obj/
+*.dll
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Database
+*.db
+*.sqlite
+
+# NinjaTrader specific
+NinjaTrader.Custom.dll
